@@ -1,4 +1,4 @@
--- To create GOLD view SALES
+-- To create GOLD view SALES, this includes data validation checks as well.
 
 -- THIS IS USED TO JOIN CRM SALES TABLE WITH CRM CUST AND PROD TABLE TO GET FULL DETAILS, THIS MAKES SALES TABLE A FACT TABLE
 
