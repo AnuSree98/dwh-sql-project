@@ -1,4 +1,4 @@
--- To create GOLD view PRODUCT
+-- To create GOLD view PRODUCT, this includes data validation checks as well.
 
 -- TO COMBINE PRODUCT TABLE WITH CRM_SALES AND ERP_PX TO GET ALL PRODUCT DETAILS
 
